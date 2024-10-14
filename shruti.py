@@ -1,3 +1,3 @@
 print("Hi")
-print("Welcome")
+print("Welcome All")
 print("Thank you")
